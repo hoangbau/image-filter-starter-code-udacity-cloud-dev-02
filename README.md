@@ -12,7 +12,8 @@ You'll need to create a new node server. Open a new terminal within the project 
 ### Deploy To ELB
 
 1. eb init
-2. eb create
+2. npm run build.
+3. eb create
 
 ### Test
 
